@@ -1,6 +1,6 @@
 # MNIST Dataset Setup
 
-To run this project successfully, you need to download the MNIST dataset and place the following files in the `number-set` folder:
+To run this project successfully, you need to unzip mnist_set.zip and place the following files in the `number-set` folder:
 
 - `mnist_train.csv`
 - `mnist_test.csv`
